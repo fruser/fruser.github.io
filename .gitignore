@@ -1,4 +1,5 @@
 *.pyc
 .idea/workspace.xml
 .vagrant
-_site
+_site/
+_drafts/
