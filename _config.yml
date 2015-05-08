@@ -2,3 +2,5 @@ highlighter: pygments
 port: 8080
 host: localhost
 
+kramdown:
+  input: GFM
